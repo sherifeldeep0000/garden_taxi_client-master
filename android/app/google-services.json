@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36070969710",
+    "firebase_url": "https://gardentaxicap.firebaseio.com",
+    "project_id": "gardentaxicap",
+    "storage_bucket": "gardentaxicap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36070969710:android:88614ab89da16d2fb7b17f",
+        "android_client_info": {
+          "package_name": "my_cab.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36070969710-b7eqoa546bl8bmpr3f059b6mgg6hoj0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_Ul37IvJOG5MYGqwBW6pYbnzgXkFUs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36070969710-b7eqoa546bl8bmpr3f059b6mgg6hoj0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
